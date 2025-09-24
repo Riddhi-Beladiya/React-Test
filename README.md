@@ -1,20 +1,27 @@
-<<<<<<< HEAD
-# React + Vite
+React Profile UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a React + Tailwind CSS application that allows users to create a profile as either a Seeker or Supporter. Supporters can further 
+choose to be a Certified Professional or Peer Supporter. The app validates user input, enforces area selection rules, and stores submitted data 
+in Firebase Realtime Database.
 
-Currently, two official plugins are available:
+Screenshots
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Create Profile Form
 
-## React Compiler
+<img width="500" height="408" alt="image" src="https://github.com/user-attachments/assets/b89044a0-86e9-40b4-a06d-4c0a4dc90790" />
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+Firebase Database
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# React-Test
->>>>>>> 09c459d884ff474167364f7cd0901324bf066b60
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/0b13ab6f-e3f4-443d-9077-c69cae300011" />
+
+
+🛠️ Tech Stack
+
+React.js (Frontend framework)
+
+Tailwind CSS (Styling & responsive design)
+
+React Icons (UI icons)
+
+Firebase Realtime Database (Backend storage)
